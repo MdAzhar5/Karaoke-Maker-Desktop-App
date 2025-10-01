@@ -1,0 +1,7 @@
+pyqt5
+spleeter
+tensorflow==2.7.0
+yt-dlp
+ffmpeg-python
+
+
